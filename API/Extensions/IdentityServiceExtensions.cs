@@ -25,9 +25,7 @@ namespace API.Extensions
                     ValidateActor=false,
                     ValidateAudience=false,
                 };
-
             });
-
             return services;
             
         }
